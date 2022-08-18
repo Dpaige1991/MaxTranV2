@@ -1,6 +1,6 @@
 ## How To Play
 
-You play as Max who is a lead designer at a marketing firm. Max has to make decisions 
+You play as Max who is a lead designer at a marketing firm. Max has to make decisions when it comes to challenges and obstacles when it comes to completing tasks. Max should be very careful on how answers question as Max answers lead to different scenarios.
 
 ## Controls
 
